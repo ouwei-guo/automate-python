@@ -22,7 +22,7 @@ def test():
     print(os.path.isfile(cwd))
     print(os.path.isdir(cwd))
 
-#test()
+test()
 def readFile(fileName):
     helloFile = open(cwd + '/' + fileName)
     helloContent = helloFile.read()
@@ -55,7 +55,7 @@ def shelveFile():
         print(shelfFile[key])
     shelfFile.close()
     
-shelveFile()
+#shelveFile()
 
 
 
