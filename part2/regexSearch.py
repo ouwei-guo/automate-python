@@ -4,6 +4,7 @@
 Created on Tue Jul 30 21:07:22 2019
 
 @author: M
+
 Usage: python regexSearch.py [path] [regex] [extention]
 """
 
