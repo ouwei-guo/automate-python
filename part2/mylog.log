@@ -1,0 +1,27 @@
+2019-07-31 17:15:16,919 - logger - DEBUG - Start of factorial(5)
+2019-07-31 17:15:16,919 - logger - DEBUG - i is 0, total is 0
+2019-07-31 17:15:16,919 - logger - DEBUG - i is 1, total is 0
+2019-07-31 17:15:16,919 - logger - DEBUG - i is 2, total is 0
+2019-07-31 17:15:16,919 - logger - DEBUG - i is 3, total is 0
+2019-07-31 17:15:16,919 - logger - DEBUG - i is 4, total is 0
+2019-07-31 17:15:16,919 - logger - DEBUG - i is 5, total is 0
+2019-07-31 17:15:16,920 - logger - DEBUG - End of factorial(5)
+2019-07-31 17:15:16,920 - logger - DEBUG - End of program
+2019-07-31 17:15:38,604 - logger - DEBUG - Start of factorial(5)
+2019-07-31 17:15:38,604 - logger - DEBUG - Start of factorial(5)
+2019-07-31 17:15:38,604 - logger - DEBUG - i is 0, total is 0
+2019-07-31 17:15:38,604 - logger - DEBUG - i is 0, total is 0
+2019-07-31 17:15:38,605 - logger - DEBUG - i is 1, total is 0
+2019-07-31 17:15:38,605 - logger - DEBUG - i is 1, total is 0
+2019-07-31 17:15:38,605 - logger - DEBUG - i is 2, total is 0
+2019-07-31 17:15:38,605 - logger - DEBUG - i is 2, total is 0
+2019-07-31 17:15:38,605 - logger - DEBUG - i is 3, total is 0
+2019-07-31 17:15:38,605 - logger - DEBUG - i is 3, total is 0
+2019-07-31 17:15:38,605 - logger - DEBUG - i is 4, total is 0
+2019-07-31 17:15:38,605 - logger - DEBUG - i is 4, total is 0
+2019-07-31 17:15:38,605 - logger - DEBUG - i is 5, total is 0
+2019-07-31 17:15:38,605 - logger - DEBUG - i is 5, total is 0
+2019-07-31 17:15:38,605 - logger - DEBUG - End of factorial(5)
+2019-07-31 17:15:38,605 - logger - DEBUG - End of factorial(5)
+2019-07-31 17:15:38,605 - logger - DEBUG - End of program
+2019-07-31 17:15:38,605 - logger - DEBUG - End of program
