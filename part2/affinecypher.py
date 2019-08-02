@@ -55,7 +55,7 @@ def encryptMessage(key, message):
 
 def decryptMessage(key, message):
     keyA, keyB = getKeyParts(key)
-    checkKeys(keyA, keyB, 'encrypt')
+    checkKeys(keyA, keyB, 'decrypt')
     plaintext = ''
     modInverseOfKeyA = cryptomath.findModInverse(keyA, len(SYMBOLS))
     for symbol in message:
